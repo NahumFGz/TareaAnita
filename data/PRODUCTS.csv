@@ -1,0 +1,196 @@
+PRODUCT_ID,NAMEP,SIZE_ID,PRICE_ID,CATEGORY_ID
+1,Siu Mai,11,1,1
+2,Wan Tan,11,3,1
+3,Taco Chino,11,3,1
+4,Pastelito Carne,11,2,1
+5,Berenjena frita empanizada,11,4,1
+6,Taipao,11,6,1
+7,Albondiga de ajonjoli,11,7,1
+8,Sopa mandarin Oriental,11,8,2
+9,Sopa WanTan,11,1,2
+10,Agria picante,11,8,2
+11,Sopa Maiz con pollo,11,9,2
+12,Sopa de Mariscos,11,10,2
+13,Sopa alga marina con pollo,11,1,2
+14,Sopa de tofu con huevo de pato y Mariscos,11,10,2
+15,Sopa pescado mandarin,11,9,2
+16,Sopa de pollo con vegetales,11,1,2
+17,Sopa de bambu y hongos chinos,11,11,2
+18,Sopa con tallarines,11,12,2
+19,Sopa shangai,11,10,2
+20,Tallarin extra,11,13,2
+21,Chapsuey especial mandarin,11,14,3
+22,Chapsuey real mandarin,11,15,3
+23,Chapsuey y camaron,11,11,3
+24,Chapsuey marinero,11,10,3
+25,Chapsuey camaron y pollo,11,11,3
+26,"Chapsuey pollo, res o cerdo",11,14,3
+27,Tallarín de arroz especial mandarin,11,11,3
+28,"Tallarín de arroz con pollo, res o cerdo",11,11,3
+29,Tallarín de arroz con camaron,11,15,3
+30,Tallarín de arroz con camaron y pollo,11,15,3
+31,Tallarín de arroz estilo Thailandia,11,15,3
+32,Tallarín de leche especial mandarin,11,11,3
+33,"Tallarín de leche con pollo, res o cerdo",11,11,3
+34,Tallarín de leche con camaron,11,15,3
+35,Tallarín de leche con pollo y camaron,11,15,3
+36,Tallarín de leche con res,11,11,3
+37,Tallarín Wuton a la plancha,11,10,3
+38,ChauMin especial mandaron,11,10,3
+39,"ChauMin con pollo, res o cerdo",11,10,3
+40,ChauMin con camaron,11,16,3
+41,ChauMin con camaron y pollo,11,16,3
+42,Tallarin de arroz Xingapu,11,17,3
+43,Arroz frito especial mandarin,11,14,4
+44,Arroz frito real mandarin,11,15,4
+45,"Arroz camaron, cebollina y huevo",11,11,4
+46,Arroz con camaron,11,11,4
+47,Arroz marinero,11,10,4
+48,Arroz con camaron y pollo,11,11,4
+49,Arroz YanHon,11,11,4
+50,Arroz yinyan,11,18,4
+51,Arroz fujean,11,18,4
+52,Arroz gaung,11,11,4
+53,Arroz estilo Thailandia,11,11,4
+54,Arroz cebollina y huevo,11,19,4
+55,"Arroz con pollo, res o cerdo",11,14,4
+56,Arroz con vegetal,11,19,4
+57,Arroz blanco,11,13,4
+58,Marisco con salsa mandarin,11,20,5
+59,Marisco woobar,11,20,5
+60,Marisco kunpao,11,20,5
+61,Marisco copa caliente,11,20,5
+62,Marisco mixto con vegetales,11,21,5
+63,Langosta estilo sal y pimienta,11,22,5
+64,Langosta con salsa mandarin,11,22,5
+65,Caracol estilo mandarin,11,23,5
+66,Caracol al ajillo,11,23,5
+67,Caracol estilo sal y pimienta,11,23,5
+68,Calamar estilo mandarin,11,24,5
+69,Pescado al vapor,11,24,6
+70,Pescado frito con salsa mandarin,11,24,6
+71,Pescado frito con salsa zechuan,11,25,6
+72,Pescado frito con frijol soya,11,24,6
+73,Pescado frito,11,26,6
+74,Camaron especial mandarin,11,21,7
+75,Camaron salsa kunpao,11,21,7
+76,Camaron estilo woobar,11,20,7
+77,Camaron empanizado,11,21,7
+78,Camaron con salsa barbacoa,11,21,7
+79,Pollo Kunpao,11,21,8
+80,Pollo agridulce,11,10,8
+81,Pollo salsa ostra,11,21,8
+82,Pollo con champiñones y hongos,11,17,8
+83,Pollo con salsa limon,11,26,8
+84,Res salsa con vegetales,11,31,9
+85,Res salsa pekin,11,18,9
+86,Res salsa ostra,11,17,9
+87,Res salsa stay,11,17,9
+88,Res salsa cebollina,11,17,9
+89,Cerdo asado,11,33,10
+90,Cerdo con hongo y champiñones,11,31,10
+91,Cerdo con vegetales,11,10,10
+92,Cerdo salsa ostra,11,10,10
+93,Cerdo agridulce,11,10,10
+94,Vegetales mixtos con salsa mandarin,11,1,11
+95,Vegetales con salsa ostra,11,1,11
+96,Vegetales chinos con ajo,11,19,11
+97,Vegetales chinos Lohan,11,31,11
+98,Vegetales con hongos y champiñones,11,31,11
+99,Tofu con carne de cerdo y salsa picante,11,31,12
+100,Tofu con camaron y hongos,11,23,12
+101,Tofu estilo casero,11,31,12
+102,Tofu con hongos y bambu,11,34,12
+103,Tofu con pescado,11,35,12
+104,Siu Mai,12,36,1
+105,Wan Tan,12,37,1
+106,Taco Chino,12,37,1
+107,Pastelito Carne,12,38,1
+108,Berenjena Frita,12,39,1
+109,Mandarin Oriental,12,39,2
+110,Wan Tan,12,36,2
+111,Agria Picante,12,39,2
+112,Maiz con Pollo,12,41,2
+113,Marisco,12,44,2
+114,Alga Marina,12,36,2
+115,Sopa Tofu con huevo,12,44,2
+116,Pescado Mandarin,12,41,2
+117,Pollo con vegetales,12,36,2
+118,Bambu y hongos,12,42,2
+119,Yan Chao,12,43,2
+120,Shangai,12,44,2
+121,Chapsuey especial mandarin,12,45,3
+122,Chapsuey real mandarin,12,46,3
+123,Chapsuey y camaron,12,42,3
+124,Chapsuey marinero,12,44,3
+125,Chapsuey camaron y pollo,12,42,3
+126,"Chapsuey pollo, res o cerdo",12,45,3
+127,Tallarín de arroz especial mandarin,12,44,3
+128,"Tallarín de arroz con pollo, res o cerdo",12,42,3
+129,Tallarín de arroz con camaron,12,46,3
+130,Tallarín de arroz con camaron y pollo,12,46,3
+131,Tallarín de arroz estilo Thailandia,12,46,3
+132,Tallarín de leche especial mandarin,12,42,3
+133,"Tallarín de leche con pollo, res o cerdo",12,42,3
+134,Tallarín de leche con camaron,12,46,3
+135,Tallarín de leche con pollo y camaron,12,46,3
+136,Tallarín de leche con res,12,42,3
+137,Tallarín Wuton a la plancha,12,44,3
+138,ChauMin especial mandaron,12,44,3
+139,"ChauMin con pollo, res o cerdo",12,44,3
+140,ChauMin con camaron,12,47,3
+141,ChauMin con camaron y pollo,12,47,3
+142,Tallarin de arroz Xingapu,12,48,3
+143,Arroz frito especial mandarin,12,45,4
+144,Arroz frito real mandarin,12,46,4
+145,"Arroz camaron, cebollina y huevo",12,41,4
+146,Arroz con camaron,12,41,4
+147,Arroz marinero,12,43,4
+148,Arroz con camaron y pollo,12,41,4
+149,Arroz YanHon,12,41,4
+150,Arroz yinyan,12,48,4
+151,Arroz fujean,12,48,4
+152,Arroz gaung,12,41,4
+153,Arroz estilo Thailandia,12,41,4
+154,Arroz cebollina y huevo,12,49,4
+155,"Arroz con pollo, res o cerdo",12,50,4
+156,Arroz con vegetal,12,49,4
+158,Marisco con salsa mandarin,12,51,5
+159,Marisco woobar,12,51,5
+160,Marisco kunpao,12,51,5
+161,Marisco copa caliente,12,51,5
+162,Marisco mixto con vegetales,12,52,5
+165,Caracol estilo mandarin,12,57,5
+166,Caracol al ajillo,12,57,5
+167,Caracol estilo sal y pimienta,12,57,5
+168,Calamar estilo mandarin,12,53,5
+174,Camaron especial mandarin,12,52,7
+175,Camaron salsa kunpao,12,52,7
+176,Camaron estilo woobar,12,51,7
+177,Camaron empanizado,12,52,7
+178,Camaron con salsa barbacoa,12,52,7
+179,Pollo Kunpao,12,46,8
+180,Pollo agridulce,12,43,8
+181,Pollo salsa ostra,12,43,8
+182,Pollo con champiñones y hongos,12,47,8
+183,Pollo con salsa limo,12,59,8
+184,Res salsa con vegetales,12,60,9
+185,Res salsa pekin,12,48,9
+186,Res salsa ostra,12,47,9
+187,Res salsa stay,12,47,9
+188,Res salsa cebollina,12,47,9
+189,Cerdo asado,12,62,10
+190,Cerdo con hongo y champiñones,12,60,10
+191,Cerdo con vegetales,12,43,10
+192,Cerdo salsa ostra,12,43,10
+193,Cerdo agridulce,12,43,10
+194,Vegetales mixtos con salsa mandarin,12,36,11
+195,Vegetales con salsa ostra,12,36,11
+196,Vegetales chinos con ajo,12,49,11
+197,Vegetales chinos Lohan,12,60,11
+198,Vegetales con hongos y champiñones,12,60,11
+199,Tofu con carne de cerdo y salsa picante,12,60,12
+200,Tofu con camaron y hongos,12,57,12
+201,Tofu estilo casero,12,60,12
+202,Tofu con hongos y bambu,12,65,12
+203,Tofu con pescado,12,63,12
