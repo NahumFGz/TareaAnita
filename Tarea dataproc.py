@@ -30,8 +30,8 @@ def read_data(spark, input_data):
 
 
 # Configuración de rutas de entrada y salida
-input_data = "dbfs:/FileStore/tables"
-output_data = "/tmp/output/"
+input_data = "gs://test-cloud-storage-nahum/input"
+output_data = "gs://test-cloud-storage-nahum/output"
 
 # Inicializar sesión de Spark
 spark = create_spark_session()
